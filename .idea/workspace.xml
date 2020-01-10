@@ -18,6 +18,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WC2fEipaN8RH2wPaNbdDEBI4iu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -51,14 +52,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578639356581</updated>
-      <workItem from="1578639362306" duration="162000" />
+      <workItem from="1578639362306" duration="453000" />
     </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1578639812240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578639812240</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="556" y="0" key="CommitChangelistDialog2" timestamp="1578639809026">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="556" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578639809026" />
     <state x="785" y="178" key="FileChooserDialogImpl" timestamp="1578639639488">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
